@@ -1,5 +1,5 @@
 
-# 🧠 Project Log — Day 1
+# Project Log: Day 1
 
 Got the repo set up and cleaned it up a bit so everything isn’t a mess. Went through the dataset summary again just to actually understand what I’m working with instead of jumping straight in.
 
